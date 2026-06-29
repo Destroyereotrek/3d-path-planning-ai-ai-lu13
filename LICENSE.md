@@ -1,4 +1,4 @@
-# 
+# Nativo 3D Path Planning AI modelos. Com processamento de linguagem natural e extração de recursos — otimizado para máximo desempenho.
 
 
 
